@@ -2,12 +2,12 @@
 using namespace std;
 int main()
 {
-    int i = 4 , choice , price , tprice = 0 , morder ,b ;
+    int i = 4 , choice , price , tprice = 0 , morder , b ;
     string name[50];
 
     cout << "------------------------ Order Fast Food ------------------------" << endl ;
 
-	cout << endl << "Please Enter your name : " << endl ;
+    cout << endl << "Please Enter your name : " << endl ;
     cin >> name[50] ;
     cout << "Hello " << name[50] << endl;
 
