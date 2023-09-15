@@ -11,17 +11,17 @@ class P
         }
         void sub(int p,double u)
         {
-            cout << "This is get_n function with two argument"<< endl ;
+            cout << "This is sub function with two argument"<< endl ;
             cout << "Subtraction of p and u is : " << p - u << endl << endl ;
         }
         void mul(double p,int u)
         {
-            cout << "This is get_j function with two argument " << endl ;
+            cout << "This is mul function with two argument " << endl ;
             cout << "Multiplication of p and u is : " << p * u << endl << endl ;
         }
         void div(double p,double u)
         {
-            cout << "This is get_p function with two argument "<< endl ;
+            cout << "This is div function with two argument "<< endl ;
             cout << "Division of p and u is : " << p / u << endl << endl ;
         }
 };
