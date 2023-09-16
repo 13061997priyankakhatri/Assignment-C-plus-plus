@@ -9,10 +9,10 @@ class P
             cout << endl << "This is rectengle function with two argument " << endl ;
             cout << "Area of rectengle is : " << l * w << endl << endl ;
         }
-        void Triangle(int l,double w)
+        void Triangle(int b,double h)
         {
             cout << "This is triangle function with two argument"<< endl ;
-            cout << "Area of triangle is : " << 0.5*l*w << endl << endl ;
+            cout << "Area of triangle is : " << 0.5*b*h << endl << endl ;
         }
         void Circle(int r)
         {
